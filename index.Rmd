@@ -63,20 +63,11 @@ renv::use("compiler",
 
 <br>
 <br>
-![Book cover](images/planning.png)
+![Book cover](images/metadata.png)
 <br>
 <br>
 
 Greetings, fellow explorers! 
-
-Step into the captivating world of microbiome data analysis with our groundbreaking series, the Systematic Microbiome Data Analytics (SMDA) Practical User Guide. We extend a warm invitation to embark on a journey that transcends conventional analysis methods, empowering you with practical guides to unravel the complexities of microbial composition within any given sample.
-
-In the Microbiome Explorer's Practical User Guides, we've meticulously divided the eBook into standalone parts, each dedicated to comprehensively exploring different facets of microbiome analysis. These parts act as invaluable tools, arming researchers with the knowledge and insights to navigate the intricate dynamics of microbial communities.
-
-Our mission is clear: to transform intricate data into actionable knowledge and propel the understanding of microbial communities to unprecedented frontiers. Through cutting-edge techniques and methodologies, the SMDA series aims to decode the role of microorganisms in disease, health, and their environmental impact, offering integrated solutions for a holistic understanding of microbial community biodiversity.
-
-So, are you ready to unlock the mysteries concealed within microbiome data? Join us in this exhilarating journey of discovery! Let's embrace the challenges and opportunities that await us in the fascinating realm of microbiome data analysis.
-
 
 # License {-}
 The online versions of these guides are freely available and licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license. This means that you are free to share them as they are, without making any modifications or using them for commercial purposes.
